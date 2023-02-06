@@ -18,7 +18,7 @@ export default function Home() {
         <p className="description">
        
     
-    Many people nowadays prefer to use <a href="https://play.google.com/store/apps/details?id=com.newsprime.newshunt.dailynews.latestnews">news aggregator apps</a> on their mobile devices over watching TV news channels or reading newspapers when on their commutes, during leisure time, or while eating. People choose to read the complete news as soon as possible, choose their own category of news, or just glance at the trending headlines rather than reading the entire news bulletin, so the reasons vary based on the individual. 
+    Many people nowadays prefer to use <a href="https://play.google.com/store/apps/details?id=com.newsprime.newshunt.dailynews.latestnews">news aggregator app</a> on their mobile devices over watching TV news channels or reading newspapers when on their commutes, during leisure time, or while eating. People choose to read the complete news as soon as possible, choose their own category of news, or just glance at the trending headlines rather than reading the entire news bulletin, so the reasons vary based on the individual. 
 
     
     <ul>
