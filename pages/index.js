@@ -32,7 +32,7 @@ export default function Home() {
 
 
     
-    Live TV news channels offer a few benefits, but they require users to spend time and be in front of their televisions, which isnt possible if youre working or involved in any other activity. Users can stay up to date with the latest news by using news aggregators on the go. This is also why most of the television news channels have developed their own apps for deploying news and displaying it on the news channels as well. 
+    Live TV news channels offer a few benefits, but they require users to spend time and be in front of their televisions, which isnt possible if youre working or involved in any other activity. Users can stay up to date with the <a href="http://www.newsprime.com/">latest news</a> by using news aggregators on the go. This is also why most of the television news channels have developed their own apps for deploying news and displaying it on the news channels as well. 
  
 
         </p>
